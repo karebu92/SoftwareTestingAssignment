@@ -1,9 +1,10 @@
 
 /*
+ * 19539 RWABAHIZI 		Arnaud
  * 21881 GANZA 			Moses
  * 22047 KAREBU 		Jules
- * 20751 MUDAHERANWA 	Patrick
- * 21936 DUSABIMANA 	Eric
+ * 20751 MUDAHERANWA 		Patrick
+ * 21936 DUSABIMANA 		Eric
 */
 
 
@@ -35,8 +36,9 @@ public class TestCalc {
 }
 
 /*
+ * 19539 RWABAHIZI 		Arnaud
  * 21881 GANZA 			Moses
  * 22047 KAREBU 		Jules
- * 20751 MUDAHERANWA 	Patrick
- * 21936 DUSABIMANA 	Eric
+ * 20751 MUDAHERANWA 		Patrick
+ * 21936 DUSABIMANA 		Eric
 */
